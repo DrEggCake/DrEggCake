@@ -18,4 +18,8 @@ I'm a 16 year old programmer who loves:
 
 ## Why so less projects?
 - I'm currently preparing for JEE Advanced so do not have enough time to work on above.
-- But currently, I'm actively contributing to Linux kernel 
+- But currently, I'm actively contributing to Linux kernel
+
+## Contact me
+- Email: lovekeshsolanki00@gmail.com
+- Also available on Discord but I prefer Email first contacts.
