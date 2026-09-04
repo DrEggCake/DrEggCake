@@ -15,6 +15,7 @@ I'm a 16 year old programmer who loves:
 - **EggPdf** - Custom PDF viewer written entirely from scratch using OpenGL and PDFBox library. I mostly made to use myself because popular pdf viewers didn't suit me.
 - **Sage** - My attempt at making a Spiking Neural Network entirely from scratch. I never read a book on how they work this is completely from scratch with my own ideas. It's development is now being done in C++ because I finally bothered to learn C++ because I will use MuJoCo in it, the previous version was written in Java and is available as **Sage-java**.
 - **AfkUtilities & EggBooks** - Custom minecraft plugins made for very specific purposes. Not proud of either of them.
+- **Discord bots** - Made a few custom discord bots but are private.. for now!
 
 ## Why so less projects?
 - I'm currently preparing for JEE Advanced so do not have enough time to work on above.
