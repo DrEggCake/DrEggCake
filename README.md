@@ -7,8 +7,8 @@ I'm a 16 year old programmer who loves:
 - Working on embodied learning and robotics projects from scratch.
 
 ## Recent work
+- Fixed a race condition to prevent NULL pointer dereference (merged): https://lore.kernel.org/all/20260825171343.459630-1-lovekeshsolanki00@gmail.com/
 - Fixed a bug where root hubs were getting longer holds than they needed: https://lore.kernel.org/all/20260903112903.542719-1-lovekeshsolanki00@gmail.com/
-- Fixed a race condition to prevent NULL pointer dereference: https://lore.kernel.org/all/20260825171343.459630-1-lovekeshsolanki00@gmail.com/
 - Added a quirk and expanded report ID check to support more devices: https://lore.kernel.org/all/20260804202031.75738-1-lovekeshsolanki00@gmail.com/
 
 ## Some of my projects
