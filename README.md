@@ -10,6 +10,8 @@ I'm a 16 year old programmer who loves:
 - Fixed a race condition to prevent NULL pointer dereference (merged): https://lore.kernel.org/all/20260825171343.459630-1-lovekeshsolanki00@gmail.com/
 - Fixed a bug where root hubs were getting longer holds than they needed: https://lore.kernel.org/all/20260903112903.542719-1-lovekeshsolanki00@gmail.com/
 - Added a quirk and expanded report ID check to support more devices: https://lore.kernel.org/all/20260804202031.75738-1-lovekeshsolanki00@gmail.com/
+- Added a quirk to force nomux mode for Fujito LIFEBOOK U7410: https://lore.kernel.org/all/20260920113541.1484808-1-lovekeshsolanki00@gmail.com/
+- Added entry to smbus_pnp_ids table to support Lenovo Thinkpad T490 touchpad: https://lore.kernel.org/all/20260920200730.1836756-1-lovekeshsolanki00@gmail.com/
 
 ## Some of my projects
 - **EggPdf** - Custom PDF viewer written entirely from scratch using OpenGL and PDFBox library. I mostly made to use myself because popular pdf viewers didn't suit me. I mostly contribute when I'm studying and notice something missing and a feature that I need desperately.
@@ -23,4 +25,4 @@ I'm a 16 year old programmer who loves:
 
 ## Contact me
 - Email: lovekeshsolanki00@gmail.com
-- Also available on Discord but I prefer Email first contacts.
+- Also available on Discord via (@dreggcake) but I prefer Email first contacts.
